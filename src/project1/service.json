@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trip-plan-website",
+  "private_key_id": "b368b460eda16c4ff3f30fa953c09d58d3379100",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSRSA4zZ/vJMGN\nx7827j/xXor4T/BcKYJUnhmVdX2LQInB9LAzGCttaPRw+xQuJgUc0CP5aodUqJ3h\nExK/9AwIFW/42Y14AylLUtReBGs7DfoQoa8rLyw+uNFKgAGaA0Da9qPhlq0xFDap\nJ5gyBSMlL1TwWLmYmfVyLGVGbuDktLvL2RFcoqqrRDqI0wHJXAf9T5lRW/Z9Vc6F\nbx1h+kny5gKWMWrBcFsSXEsZHzzMq1+syf0gDZaK/folgdMBoMiaZE5w0GvVmCD/\ntWdSuDLDhK/DBFon66hKT+M0QY+0ac2oFKsWgyn7TFtlXetphxLfs63HEOwuHP3f\nlUkFMdmVAgMBAAECggEAB2q4P2PJ2YCrIeCAOoL/52IsY3qmN6jRLNpBdi8uzloC\nQj1Wlpispw/HNAK/Rgxz05Sy+57iaDFj+WQ+s1C8MB1qKpuuzT2Xy/PSGfGuavWt\nTvJBOswvDv/PI7B0TwDIOpzUDYiBlWIELYqjmzG1065f57oQBdlqCpU5Y3C+4vSQ\nMHWk3XESQKbBzpQtuP53NjvS/XQ2jUjmFPauGfdkmRIhqlGhpKb+u8IExhYvhbGv\n+45/gAqCUBlVYDx2EufH66xrF1mk9NBqC6KIKL3U+w3CvRRkOBaS/B55roKETgzn\n1V17h3G7GNVrF8UI8R9SY29oBXzd7xGyVszijDH3BwKBgQDK1McPxTzGzpoEdXVf\nau14krSwoekU2pMHD3INsBdtPfydQ4GklNBBe1SClDG4p+e0vNwxfpv6w6T34bXP\n/J6gHzNx0hMLUQka2K/MRQAHxOmaPwvsncPXu9Ko5OAJlgXi+Pipun4hzEh8xx3v\nKjH4ZRBXJBE0fp5l22WAYxCp5wKBgQC4nL8xvpaJGP7PyS6lN/1hSGYY2WrK0h2P\n8S+Nfpgbi1i0uWPOx8am5B97X5uEVSbcv0hloiLqbE6Itg1j/b1kZGnsn2bu2x4Q\nJn1SLuI2QB5HGYyonTzTphcyjm5+Lc6HewxFzD1UGLztEstC1nr6Zl4z8MzKZajH\nC+K/ZVKJIwKBgQCepSa90wvihB47dpPDeiMbt8PUlA923C87ynzu79ii/WTkrLRu\nQmdRkGFdcQQi5lF5MG8Z12mxDe2uZMCMWY7Itx7J3AJBS7TPZsS6BQ4tBXuhxcZR\n4GQaDTKMH9iMJuebzBjSyKd3UA0ya5uiQWKsYoARaIh8grzp9lzBurqB6QKBgGgl\npYb+qhX1z+qQ6Iu0pnD3UwG5xhFdr+fAfL8qJ82CMyzhWXkSIvOLxmbnbOie0Sm/\nj6wmZ+Qv7a4aZjt+rhWwwEEJPByL6M3bqN9wK5XHXk1mEIAfFG2iSXvv9k2gsd6k\ngCvwKLkEq7Bi5eBy9zXEAmjy89VKvIhuICExm/pZAoGBALTMQG+2Jiuxaph9uDYS\n2W+VkUEhWzYuhF7StXArzpp0Cx6E6XK7wObJ0asTjIty4tSI2WEF5FPufiV7VbZE\nUZ6vz4BJnAlWSwWYZ2ZfTVNIAKMJY21A23TJADtN8FYrd3iUfV0YUKSnGeWqOFE5\nfU/M/0Cpn3hzLCNDAWwE2P2C\n-----END PRIVATE KEY-----\n",
+  "client_email": "trip-plan-webite@trip-plan-website.iam.gserviceaccount.com",
+  "client_id": "102852079243655728903",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trip-plan-webite%40trip-plan-website.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

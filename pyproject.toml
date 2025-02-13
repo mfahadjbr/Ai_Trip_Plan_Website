@@ -1,0 +1,26 @@
+[project]
+name = "trip-plan-website"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ruff>=0.9.6",
+    "crewai",
+    "langchain>=0.3.18",
+    "streamlit>=1.42.0",
+]
+
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+
+main="project1.main:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/project1"]  # Use quotes
+
+
