@@ -59,11 +59,11 @@ class TravelAgents:
         google_api_key = os.getenv("GEMINI_API_KEY")  # Ensure API key is set in the environment
 
         self.OpenAIGPT35 = LLM(
-            model="gemini/gemini-2.0-flash-exp", temperature=0.7, api_key="AIzaSyCMU3iF0KNaM8vp83_lfXnkycYGV-tKVsM",
+            model="gemini/gemini-2.0-flash-exp", temperature=0.7, api_key="AIzaSyA75MtcUV2U0spz_k2S1Hg-z5XADCvv1O8",
 
         )
         self.OpenAIGPT4 = LLM(
-            model="gemini/gemini-2.0-flash", temperature=0.7, api_key="AIzaSyCMU3iF0KNaM8vp83_lfXnkycYGV-tKVsM",
+            model="gemini/gemini-2.0-flash", temperature=0.7, api_key="AIzaSyA75MtcUV2U0spz_k2S1Hg-z5XADCvv1O8",
 
         )
 
